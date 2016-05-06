@@ -1,0 +1,2 @@
+# Analysing-Stock-Market-Movements-Using-Twitter-Sentiment-Analysis
+Stock market prediction is the method of trying to determine the future value of publically listed company stock traded on an exchange. The successful prediction of a stock's future price could yield significant profit. Stock market prediction is one of the most important issues to be investigated. Quarrying tweets and time series concurrently, such as predicting the movements of stock prices based on the content of Twitter corpus, is an emerging topic in Machine Learning.
